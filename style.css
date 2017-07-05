@@ -73,3 +73,25 @@ video {
   font-size: 30px;
 }
 /* end header + video */
+
+/* Section 1 */
+/*
+color: #973194;
+*/
+.title
+{
+  margin-top: 50px;
+  text-align: center;
+}
+.separator
+{
+  margin: auto;
+  width: 50px;
+  border: 2px solid #EDEDED;
+  border-radius: 10px;
+}
+.title h2
+{
+  color: #973194;
+
+}
